@@ -1,4 +1,5 @@
 //asynchronous. See how it is nested. Nasty to code
+//Starts next code before finishing this nested section
 const { readFile, writeFile } = require('fs')
 
 console.log('start')
